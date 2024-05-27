@@ -3,7 +3,7 @@ Welcome to our GitHub repository! This repository serves as the online appendix 
 
 ## Team Members
 - Rafael Cappabianca
-- [Daniel Fisch](https://github.com/(https://daniel-a-fisch.github.io)
+- Daniel Fisch
 - Abel Hofflin
 - Nicolas Marti
 - Anna Ruffert
